@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* --- PAGE ELEMENTS ---*/
+
+
+	#page_background {
+		width: 940px;
+		padding: 16px 10px 0;
+		background: url(../images/bg-page.png) no-repeat center top;
+	}
+	
+	#page_content {
+		width: 820px;
+		padding: 20px 60px 50px;
+		overflow: auto;
+		background: #fff;
+		min-height: 800px;
+	}

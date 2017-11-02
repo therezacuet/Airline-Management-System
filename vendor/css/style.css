@@ -1,0 +1,15 @@
+.row{
+
+	height: 600px;
+	border: 1px solid #000000;
+}
+.form-horizontal{
+	border-radius: 4px;
+	background-color: #CCC;
+    background-color: rgba(255,255,255,0.4);
+
+}
+
+.form-group{
+
+}

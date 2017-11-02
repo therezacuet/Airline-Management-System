@@ -1,0 +1,195 @@
+html::before { content: ""; position: absolute; width: 100%; background: #006a4e url(/content/filebank?id=e85677d8-6305-47fd-89d9-76851771cf67) center top fixed; height: 162px; left: 0; z-index: -1; }
+html { background: #deddd5 url(/content/filebank?id=e18497d8-0ee5-4a7e-aada-06330164b2d9) center top fixed; }
+#container #header { background: #006a4e url(/content/filebank?id=4e860de7-d8c2-486c-8d93-3ab9e03e4910) no-repeat center; }
+
+#flight-status-page .page-sec1 {
+    padding-left: 235px !important;
+    padding-bottom: 360px; /* leave room for full image */
+    background: url(/content/filebank?id=cc0f5091-b175-462c-9e33-f71da5bb850e) 10px 10px no-repeat;
+}
+
+#flight-status-page .page-sec1 table {
+    width: 550px;
+}
+#flight-status-page .page-sec1 table.flight-search th,
+#flight-status-page .page-sec1 table.flight-search td {
+    font-size: 0.9em;
+}
+
+.CMS .globalnav li a { color: #fff; font-weight: normal; }
+.CMS .globalnav li ul { background: #006a4e url(/content/filebank?id=e85677d8-6305-47fd-89d9-76851771cf67) center top fixed; border-radius: 0 0 5px 5px; -moz-border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; }
+
+.CMS .footernav li { color: #006a4e; }
+
+.CMS .left { float: left;}
+.CMS .right { float: right; }
+.CMS .clear { clear: both; }
+.CMS .center { display: block; margin: 0 auto; text-align: center; }
+
+.CMS blockquote { padding-left: 3em; }
+
+.CMS p {	font-size: 13px;
+	line-height: 20px;
+	font-weight: 300;
+	color: #000;
+}
+
+.CMS img { margin: 10px 0; }
+
+
+.CMS h1 {	font-size: 38px;
+	font-weight: 200;
+	color: #006a4e;
+	padding: 20px 0 10px;
+	text-transform: capitalize;
+}
+.CMS h2 {	font-size: 20px;
+	font-weight: 300;
+	line-height: 26px;
+	background: #007354;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+}
+.CMS h3 {	font-size: 16px;
+	font-weight: 600;
+	line-height: 18px;
+	color: #006a4e;
+	margin: 20px 0 10px;
+}
+.CMS h4 {	font-size: 14px;
+	line-height: 22px;
+	color: #000; 
+	font-weight: 200;
+	margin: 6px 20px;
+}
+.CMS h5 {	font-size: 14px;
+	font-weight: 200;
+	line-height: 18px;
+	color: #006a4e;
+	background: #e8f2e6;
+	padding: 5px 20px;
+	margin: 10px 0 3px;
+	border-radius: 30px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+}
+.CMS h6 {	font-size: 12px;
+	font-weight: 200;
+	line-height: 22px;
+	color: #000;
+}
+
+
+
+
+
+.CMS .page-sec1 { padding: 10px 0 30px; }
+.CMS .page-sec1 img { display:block; margin: 0 auto; }
+
+
+.CMS .page-sec2 { padding: 20px 0 30px; border-bottom: 1px solid #ccc; }
+
+.CMS .page-sec2 img {
+	display: block;
+	margin-left: 20px;
+	float: left;
+}
+
+
+.CMS .half-left { width: 382px; float: left; }
+.CMS .half-right { width: 382px; float: right; }
+
+
+.CMS .block-right {
+	width: 320px;
+	float: right;
+	margin: 10px 44px 20px;
+}
+
+.CMS .block-left {
+	width: 320px;
+	float: left;
+	margin: 10px 44px 20px;
+}
+.CMS .block-left h5 {text-align: center;
+	text-transform: uppercase;
+.CMS padding-top: 8px;
+	margin-bottom: 0;
+}
+.CMS .block-left a { text-decoration: none; }
+.CMS .block-left-p { display: block; padding: 0 20px; margin: 8px auto; }
+.CMS .block-left img {
+	border-radius: 0px 0px 7px 7px;
+	-moz-border-radius: 0px 0px 7px 7px;
+	-webkit-border-radius: 0px 0px 7px 7px;
+}
+
+.CMS .body-txt {
+	display: block;
+	font-weight: 300;
+	overflow: visible;
+	text-align: justify;
+	padding: 8px 20px 20px;
+}
+
+
+
+.CMS .txtwrp-right { padding: 20px; text-align: justify; }
+.CMS .txtwrp-right h3 { margin-top: 0; }
+.CMS .txtwrp-right p { clear: right; }
+.CMS .txtwrp-right img { margin: 0 40px 10px 0; float: left; }
+
+
+
+.CMS .txtwrp-left { padding: 20px; text-align: justify; }
+.CMS .txtwrp-left h3 { margin-top: 0; }
+.CMS .txtwrp-left p { clear: left; }
+.CMS .txtwrp-left img { margin: 0 0 10px 40px; float: right; }
+
+
+
+
+.CMS .style21 {
+border: 2px solid #6ac;
+border-radius: 7px;
+-moz-border-radius: 7px;
+-webkit-border-radius: 7px;
+padding: 0 4px;
+margin: 0 auto;
+border-spacing: 0;
+}
+
+.CMS .style21 th {
+color: #046;
+padding: 10px 20px;
+background: #fff;
+border: solid #9df;
+border-width: 0 1px 1px 0;
+}
+.CMS .style21 th:last-of-type { border-right: none; }
+
+.CMS .style21 tfoot td {
+text-align: center;
+font-size: 11px;
+color: #6ac;
+font-weight: 100;
+padding: 10px 0;
+background: #fff;
+}
+
+.CMS .style21 tr {
+background: #e5f6ff;
+}
+
+.CMS .style21 tbody td {
+font-size: 12px;
+padding: 6px 20px;
+border: dotted #9df;
+border-width: 0 1px 1px 0;
+}
+.CMS .style21 tbody td:nth-of-type(3), 
+.CMS .style21 td:nth-of-type(4) { text-align: center; }
+.CMS .style21 tbody td:first-of-type { border-left-width: 1px; }

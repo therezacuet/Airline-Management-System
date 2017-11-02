@@ -1,0 +1,18 @@
+h1 { color: #696; font-size: 38px; font-weight: normal; padding-top: 10px; padding-bottom: 10px; }
+h2 { background: #9c9; color: #fff; background-color: #99cc99;
+     border-radius: 7px;
+     line-height: 26px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 20px;
+     font-size: 20px;
+     font-weight: 300;
+     }
+h3 { color: #063; line-height: 18px; font-size: 16px; font-weight: 600; margin-top: 20px; margin-bottom: 10px; }
+h4 { color: #063; margin-top: 10px; margin-bottom: 5px; }
+.page-sec1 { padding-top: 10px; padding-bottom: 30px; }
+.page-sec1 > table, .page-sec1 form > table { margin-left: auto; margin-right: auto; float: none; }
+div.page_content
+{
+    font-size: 12px;
+}

@@ -1,0 +1,3 @@
+.CMS .page-sec1 { padding: 10px 30px; }
+
+.CMS .page-sec1 img { width: 300px; margin: 10px 20px; float: left; }
